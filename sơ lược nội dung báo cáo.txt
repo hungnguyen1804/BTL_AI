@@ -1,0 +1,18 @@
+Nội dung báo cáo:
+- Yolov5
++ Giới thiệu thuật toán yolo
++ Cách Yolo hoạt động
++ Các mô hình trong yolo
++ Yolov5
++ Tổng quan về object tracking
++ Sơ đồ khối thuật toán
++ Phương pháp thực hiện nhận diện và đếm
+
+- Mobilnet
++ Giới thiệu về mobilnet
++ Các hoạt động 
++ Các mô hình mobilnet
++ SSD mobilnet
++ Sơ đồ thuật toán
+
++ So sánh 2 thuật toán: FPS, thời gian detec, peformance,...
